@@ -1,0 +1,17 @@
+D:\App\Backend-App\CafeManager\CafeManager.Application\bin\Debug\net9.0\CafeManager.Application.deps.json
+D:\App\Backend-App\CafeManager\CafeManager.Application\bin\Debug\net9.0\CafeManager.Application.dll
+D:\App\Backend-App\CafeManager\CafeManager.Application\bin\Debug\net9.0\CafeManager.Application.pdb
+D:\App\Backend-App\CafeManager\CafeManager.Application\bin\Debug\net9.0\CafeManager.Domain.dll
+D:\App\Backend-App\CafeManager\CafeManager.Application\bin\Debug\net9.0\CafeManager.Infrastructure.dll
+D:\App\Backend-App\CafeManager\CafeManager.Application\bin\Debug\net9.0\CafeManager.Domain.pdb
+D:\App\Backend-App\CafeManager\CafeManager.Application\bin\Debug\net9.0\CafeManager.Infrastructure.pdb
+D:\App\Backend-App\CafeManager\CafeManager.Application\obj\Debug\net9.0\CafeManager.Application.csproj.AssemblyReference.cache
+D:\App\Backend-App\CafeManager\CafeManager.Application\obj\Debug\net9.0\CafeManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\App\Backend-App\CafeManager\CafeManager.Application\obj\Debug\net9.0\CafeManager.Application.AssemblyInfoInputs.cache
+D:\App\Backend-App\CafeManager\CafeManager.Application\obj\Debug\net9.0\CafeManager.Application.AssemblyInfo.cs
+D:\App\Backend-App\CafeManager\CafeManager.Application\obj\Debug\net9.0\CafeManager.Application.csproj.CoreCompileInputs.cache
+D:\App\Backend-App\CafeManager\CafeManager.Application\obj\Debug\net9.0\CafeMana.681AEF3B.Up2Date
+D:\App\Backend-App\CafeManager\CafeManager.Application\obj\Debug\net9.0\CafeManager.Application.dll
+D:\App\Backend-App\CafeManager\CafeManager.Application\obj\Debug\net9.0\refint\CafeManager.Application.dll
+D:\App\Backend-App\CafeManager\CafeManager.Application\obj\Debug\net9.0\CafeManager.Application.pdb
+D:\App\Backend-App\CafeManager\CafeManager.Application\obj\Debug\net9.0\ref\CafeManager.Application.dll

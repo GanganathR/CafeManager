@@ -1,0 +1,11 @@
+D:\App\Backend-App\CafeManager\CafeManager.Domain\bin\Debug\net9.0\CafeManager.Domain.deps.json
+D:\App\Backend-App\CafeManager\CafeManager.Domain\bin\Debug\net9.0\CafeManager.Domain.dll
+D:\App\Backend-App\CafeManager\CafeManager.Domain\bin\Debug\net9.0\CafeManager.Domain.pdb
+D:\App\Backend-App\CafeManager\CafeManager.Domain\obj\Debug\net9.0\CafeManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\App\Backend-App\CafeManager\CafeManager.Domain\obj\Debug\net9.0\CafeManager.Domain.AssemblyInfoInputs.cache
+D:\App\Backend-App\CafeManager\CafeManager.Domain\obj\Debug\net9.0\CafeManager.Domain.AssemblyInfo.cs
+D:\App\Backend-App\CafeManager\CafeManager.Domain\obj\Debug\net9.0\CafeManager.Domain.csproj.CoreCompileInputs.cache
+D:\App\Backend-App\CafeManager\CafeManager.Domain\obj\Debug\net9.0\CafeManager.Domain.dll
+D:\App\Backend-App\CafeManager\CafeManager.Domain\obj\Debug\net9.0\refint\CafeManager.Domain.dll
+D:\App\Backend-App\CafeManager\CafeManager.Domain\obj\Debug\net9.0\CafeManager.Domain.pdb
+D:\App\Backend-App\CafeManager\CafeManager.Domain\obj\Debug\net9.0\ref\CafeManager.Domain.dll

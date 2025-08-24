@@ -1,0 +1,17 @@
+D:\App\Backend-App\CafeManager\CafeManager.Infrastructure\bin\Debug\net9.0\CafeManager.Infrastructure.deps.json
+D:\App\Backend-App\CafeManager\CafeManager.Infrastructure\bin\Debug\net9.0\CafeManager.Infrastructure.runtimeconfig.json
+D:\App\Backend-App\CafeManager\CafeManager.Infrastructure\bin\Debug\net9.0\CafeManager.Infrastructure.dll
+D:\App\Backend-App\CafeManager\CafeManager.Infrastructure\bin\Debug\net9.0\CafeManager.Infrastructure.pdb
+D:\App\Backend-App\CafeManager\CafeManager.Infrastructure\bin\Debug\net9.0\CafeManager.Domain.dll
+D:\App\Backend-App\CafeManager\CafeManager.Infrastructure\bin\Debug\net9.0\CafeManager.Domain.pdb
+D:\App\Backend-App\CafeManager\CafeManager.Infrastructure\obj\Debug\net9.0\CafeManager.Infrastructure.csproj.AssemblyReference.cache
+D:\App\Backend-App\CafeManager\CafeManager.Infrastructure\obj\Debug\net9.0\CafeManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\App\Backend-App\CafeManager\CafeManager.Infrastructure\obj\Debug\net9.0\CafeManager.Infrastructure.AssemblyInfoInputs.cache
+D:\App\Backend-App\CafeManager\CafeManager.Infrastructure\obj\Debug\net9.0\CafeManager.Infrastructure.AssemblyInfo.cs
+D:\App\Backend-App\CafeManager\CafeManager.Infrastructure\obj\Debug\net9.0\CafeManager.Infrastructure.csproj.CoreCompileInputs.cache
+D:\App\Backend-App\CafeManager\CafeManager.Infrastructure\obj\Debug\net9.0\CafeMana.8C3B95BB.Up2Date
+D:\App\Backend-App\CafeManager\CafeManager.Infrastructure\obj\Debug\net9.0\CafeManager.Infrastructure.dll
+D:\App\Backend-App\CafeManager\CafeManager.Infrastructure\obj\Debug\net9.0\refint\CafeManager.Infrastructure.dll
+D:\App\Backend-App\CafeManager\CafeManager.Infrastructure\obj\Debug\net9.0\CafeManager.Infrastructure.pdb
+D:\App\Backend-App\CafeManager\CafeManager.Infrastructure\obj\Debug\net9.0\CafeManager.Infrastructure.genruntimeconfig.cache
+D:\App\Backend-App\CafeManager\CafeManager.Infrastructure\obj\Debug\net9.0\ref\CafeManager.Infrastructure.dll
